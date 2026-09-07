@@ -20,7 +20,7 @@ Aqui você encontra a união entre a prática de código (GitHub) e a documenta�
 
 | Projeto | Descrição | Links Rápidos |
 | :--- | :--- | :---: |
-| 🏦 **Sistema Bancário Escalável** | Aplicação backend em Python (POO) focada em regras de negócio financeiras, tratamento de exceções e rastreabilidade de transações. | [💻 Código GitHub](./sistema-bancario-python) \| [📖 Estudo no Notion](https://www.notion.so) |
+| 🏦 **Sistema Bancário Escalável** | Aplicação backend em Python (POO) focada em regras de negócio financeiras, tratamento de exceções e rastreabilidade de transações. | [💻 Código GitHub](https://github.com/taymarinho700/sistema-bancario-python)\| [📖 Estudo no Notion](https://www.notion.so) |
 
 *(Novos projetos de Análise Exploratória, Machine Learning e Pipeline de Dados em construção...)*
 
